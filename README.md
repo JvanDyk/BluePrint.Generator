@@ -1,6 +1,8 @@
 # BluePrint.Generator
-Turns .json into a class (BluePrint)
-Choose the programming language you would like to create the model for e.g. CSharp, Python, Typescript, Php or Java
+Turns .json into a class (BluePrint).
+Choose the programming language you would like to create the model for e.g. CSharp, Python, Typescript, Php or Java.
+
+Please note currently the code does not support n-levels of JSON hierarchy / Objects.
 
 ## To use:
 Download the code, you may delete everything besides the Application folder
